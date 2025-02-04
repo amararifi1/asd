@@ -1,0 +1,33 @@
+.triangle{
+	width: 0px;
+	height: 0px;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #0400ff;
+    
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    background-color: #ff0ef3;
+    border-radius: 50%;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+};
+
+.hidden{
+    display: none;
+}
+
+.trapezoid {
+	border-bottom: 50px solid #09ff00;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
